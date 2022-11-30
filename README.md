@@ -41,7 +41,8 @@ I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). 
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 <font color="yellow">
-### *Languages and Tools* :
+ 
+ <a>### *Languages and Tools* :</a>
  </font>
 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
