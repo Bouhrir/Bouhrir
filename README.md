@@ -18,10 +18,10 @@
 
 I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-### *42 Badge:
+### *42 Badge*;
 [![<username>'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/obouhrir)](https://github.com/oakoudad/badge42)
  
-### Talking about Personal Stuffs:
+### *Talking about Personal Stuffs*;
 
 - 🛠 &nbsp; I’m currently working on [getnextline](https://github.com/Bouhrir/born2beroot)
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
@@ -32,14 +32,14 @@ I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). 
 - 📝 &nbsp; Checkout my [Resume](CV).
 
 
-### My Absolute Favorites:
+### *My Absolute Favorites*:
 
 - 📺 &nbsp; Watching animes, movies and talk about iconic scenes.
 - 🥅 &nbsp; I love football, basketball and i'm a fan of FCB.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 
-### Languages and Tools:
+### *Languages and Tools*:
 
 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
@@ -53,7 +53,7 @@ I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). 
 </div>
 
 
-### Stats:
+### *Stats*:
 <br>
 <p align=center>
   <div align=left>
