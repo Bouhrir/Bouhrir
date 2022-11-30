@@ -5,7 +5,7 @@
 </h1> -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Developer;Student%20%20at%201337FutureIsLoading...;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=073C5A&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Developer;Student%20%20at%201337FutureIsLoading...;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
