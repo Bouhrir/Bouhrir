@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Oussama+bouhrir....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MIROKA....;Nice+to+meet+you!&center=true&size=10">
   </a>
 </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
