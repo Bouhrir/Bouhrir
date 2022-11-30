@@ -14,18 +14,16 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miroka26)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010968405582)
 
-### Glad to see you here! &nbsp;
+### *Glad to see you here! &nbsp;
 
 I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-### 42 Badge:
+### *42 Badge:
 [![<username>'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/obouhrir)](https://github.com/oakoudad/badge42)
-<!-- [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/obouhrir)](https://github.com/oakoudad/badge42) -->
-
-  
+ 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on [getnextline](https://github.com/Bouhrir/getnexline)
+- 🛠 &nbsp; I’m currently working on [getnextline](https://github.com/Bouhrir/born2beroot)
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Bouhrir).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)! I am happy to help.
