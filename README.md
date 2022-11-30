@@ -1,10 +1,14 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Oussama Bouhrir" /></a>
+</p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MIROKA....;Nice+to+meet+you!+&center=true&size=20">
   </a>
 </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABJ0lEQVRoge2Y4QmDMBBGvxEcoSO4QTOCI7iBjpANuoIjdIRs0BF0g3aD9ocptUcOjIlehHvwUUiO3D2QGgQURVFKxQAYAbyFM/pZoilh+KVENNJD06iAdLIIvAC0fr8C0Pu10wi0gbr+TAIxtSqwh0ATqGvOJPDE/1ux8WunEViKHDH0bgISySIwALAkA6mh+xbA5Pcc5seu9j0M5r9md5SACdSZFY0cwu+QJS3TswiBmlmnWKavuMBaKvBXk2j2ELgAuPpfjjvTO5rcAjdS1zJ1lukdTU4BWvNNFajlLoeiAjbhvCIEhoTzihBwCeepgApABVRABVzCeVkFOsyXsWU6UkP3rwAeCedlFZCMCkgnmqM+2q7JtEXA4Pc1QXp4s0VAURRlfz4tC7zsCtimXQAAAABJRU5ErkJggg=="/>
+
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/BouhrirOussama)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miroka__/)
