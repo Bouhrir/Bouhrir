@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MIROKA....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/BouhrirOussama)
