@@ -25,7 +25,7 @@ I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). 
 
 
 ### *42 Badge* :
-[![<username>'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/obouhrir)](https://github.com/oakoudad/badge42)
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/obouhrir)](https://github.com/oakoudad/badge42)
  
  
 ### *Talking about Personal Stuffs* :
