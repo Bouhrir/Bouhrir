@@ -30,7 +30,7 @@ I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). 
  
 ### *Talking about Personal Stuffs* :
 
-- 🛠 &nbsp; I’m currently working on [getnextline](https://github.com/Bouhrir/born2beroot)
+- 🛠 &nbsp; I’m currently working on [Minishell]
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Bouhrir).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)! I am happy to help.
