@@ -1,18 +1,5 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-<h1 align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Oussama%20Bouhrir%20&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=30" /></a>
-</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Developer;Student%20%20at%201337FutureIsLoading...;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" /></a>
-</p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="800px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-</a>
-  <a href="mailto:oussamabouhrir1337@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmai Badge" />
- </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/BouhrirOussama)
