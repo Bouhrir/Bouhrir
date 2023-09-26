@@ -11,24 +11,13 @@
 
 I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
+### *Talking about Personal Stuffs* :
+- 📝 &nbsp; Checkout my [Resume](CV).
 
 ### *42 Badge* :
 [![<obouhrir>'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/obouhrir)](https://github.com/oakoudad/badge42)
  
- 
-### *Talking about Personal Stuffs* :
 
-- 🛠 &nbsp; I’m currently working on [Minishell]
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Bouhrir).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: oussamabouhrir1337@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](CV).
-
-
-### *Stats* :
- 
 <br>
 <p align=center>
   <div align=left>
