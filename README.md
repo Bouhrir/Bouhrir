@@ -9,6 +9,8 @@
 # Glad to see you here!:
 I'm oussama bouhrir a computer science student at UM6P - 1337 MED (42 Network). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="320"/>
+
 # Checkout my "[Resume](CV)"
 [![<obouhrir>'s 42 stats](https://badge.mediaplus.ma/blck/obouhrir)](https://github.com/oakoudad/badge42)
 
