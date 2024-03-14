@@ -10,7 +10,7 @@ Languages and Tools
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miroka__/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miroka26)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010968405582)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,html,css,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,html,css,github,git,visualstudio,js)](https://skillicons.dev)
 <br>
    <h2>
    Glad to see you here!:
