@@ -5,11 +5,7 @@
 Languages and Tools
 </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://mobile.twitter.com/BouhrirOussama)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/miroka__/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Miroka26)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010968405582)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)<br></br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vscode,github,git,visualstudio,swift)](https://skillicons.dev)
 <br>
    <h2>
