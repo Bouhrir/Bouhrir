@@ -16,11 +16,13 @@ Languages and Tools
    </h2>
 </br>
 
+## 🎫 My Badge
 [![<obouhrir>'s 42 stats](https://badge.mediaplus.ma/blck/obouhrir)](https://github.com/oakoudad/badge42)
 
-<a href="https://github.com/Bouhrir/github-readme-stats">
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouhrir&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
+## 📈 My Stats
+
+[![status](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/0bvim/github-stats-transparent/output/generated/languages.svg)](#)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
