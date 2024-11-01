@@ -17,7 +17,7 @@ Languages and Tools
 </br>
 
 ## 🎫 My Badge
-[![<obouhrir>'s 42 stats](https://badge.mediaplus.ma/blck/obouhrir)](https://github.com/oakoudad/badge42)
+[![<obouhrir>'s 42 stats](https://badge.mediaplus.ma/black/obouhrir)](https://github.com/oakoudad/badge42)
 
 ## 📈 My Stats
 
