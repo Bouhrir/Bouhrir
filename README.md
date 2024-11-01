@@ -6,7 +6,7 @@ Languages and Tools
 </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-bouhrir-8492a6239/)<br></br>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vscode,github,git,visualstudio,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vscode,github,git,visualstudio,js,django,python)](https://skillicons.dev)
 <br>
    <h2>
    Glad to see you here!:
