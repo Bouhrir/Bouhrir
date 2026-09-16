@@ -1,5 +1,5 @@
-<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="500"> -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="900" alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="700">
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="900" alt="animated hello"> -->
 <br><br>
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://obouhrir.tech)
